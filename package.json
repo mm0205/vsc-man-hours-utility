@@ -3,6 +3,11 @@
   "displayName": "man-hours-utility",
   "description": "Computes total man-hours in Markdown file. ",
   "version": "0.0.1",
+  "publisher": "munenaga",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/mm0205/vsc-man-hours-utility.git"
+  },
   "engines": {
     "vscode": "^1.61.0"
   },
